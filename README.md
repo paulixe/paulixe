@@ -14,13 +14,13 @@
    <img src="https://github.com/paulixe/paulixe/blob/main/photoCircle.png" alt="My photo" height="25%" width="25%"/> 
 
 </div>
-<!--
+
 
 # About me :upside_down_face:
 Currently engineering student at the *École Nationale Supérieure de cognitique* I want to become a Unity and Game developer.
  I love to write clean and efficient code that fits user's experience.
 
-
+<!--
 # Works
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="[https://github.com/tristangclvs/Colony](https://github.com/tristangclvs/Project_A-Star)">
