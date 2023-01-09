@@ -17,8 +17,8 @@
 <!--
 
 # About me :upside_down_face:
-Currently engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
-I also am looking for an end-of-year internship, beginning on **22nd May 2023 for 12 to 16 weeks**.
+Currently engineering student at the *École Nationale Supérieure de cognitique* I want to become a Unity and Game developer.
+ I love to write clean and efficient code that fits user's experience.
 
 
 # Works
