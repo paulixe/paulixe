@@ -1,16 +1,13 @@
-```
+
 <div align="center">
-  <h1> Hello there, I'm Tristan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1> Hello there, I'm Paul ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/tristan-gclvs">
+  <a href="https://www.linkedin.com/in/paul-chaumont">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.tristangclvs.fr">
+  <a href="https://paulchaumont.fr/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge" />
-  </a>
-  <a href="https://www.instagram.com/titous.igela/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </div>
   <br>
@@ -42,4 +39,4 @@ I also am looking for an end-of-year internship, beginning on **22nd May 2023 fo
   
   <br>
 </p>
-```
+
