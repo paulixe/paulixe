@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/paul-chaumont">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-    <a href="https://www.linkedin.com/in/paul-chaumont">
+    <a href="https://paulchaumont.fr/">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=unity" alt="Unity Badge" />
   </a>
 </div>
