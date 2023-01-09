@@ -1,4 +1,4 @@
-
+```
 <div align="center">
   <h1> Hello there, I'm Tristan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -17,7 +17,7 @@
    <img src="https://github.com/paulixe/paulixe/blob/main/photoCircle.png" alt="My photo" height="25%" width="25%"/> 
 
 </div>
-```
+
 # About me :upside_down_face:
 Currently engineering student at the *École Nationale Supérieure de cognitique*, I love to code and improve myself by training. 
 I also am looking for an end-of-year internship, beginning on **22nd May 2023 for 12 to 16 weeks**.
