@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://paulchaumont.fr/">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=https://github.com/paulixe/paulixe/blob/main/Logo%20Final%20(1).png" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=C:\Users\chaum\Downloads\Logo Final (1).png" alt="Portfolio Badge" />
   </a>
     <a href="https://www.linkedin.com/in/paul-chaumont">
     <img src="https://img.shields.io/badge/Asset store-222222?style=for-the-badge&logo=unity" alt="LinkedIn Badge" />
