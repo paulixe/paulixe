@@ -9,6 +9,9 @@
   <a href="https://paulchaumont.fr/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio Badge" />
   </a>
+    <a href="https://www.linkedin.com/in/paul-chaumont">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=unity" alt="LinkedIn Badge" />
+  </a>
 </div>
   <br>
    <img src="https://github.com/paulixe/paulixe/blob/main/photoCircle.png" alt="My photo" height="25%" width="25%"/> 
