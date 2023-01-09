@@ -11,7 +11,7 @@
   </a>
 </div>
   <br>
-   <img src="https://github.com/paulixe/paulixe/blob/main/photoCircle.png" alt="My photo" height="25%" width="25%"/> 
+   <img src="https://github.com/paulixe/paulixe/blob/main/photocercle.png" alt="My photo" height="25%" width="25%"/> 
 
 </div>
 
