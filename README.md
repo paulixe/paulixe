@@ -19,7 +19,7 @@
 
 
 # About me :upside_down_face:
-Currently engineering student at the *École Nationale Supérieure de cognitique* I want to become a Unity and Game developer.
+Currently engineering student at the *École Nationale Supérieure de cognitique*.
  I love to write clean and efficient code that fits user's experience.
 
 <!--
